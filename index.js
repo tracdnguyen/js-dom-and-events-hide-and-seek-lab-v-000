@@ -22,6 +22,3 @@ function increaseRankBy(n) {
     }
   }
 }
-
-
-
